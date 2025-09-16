@@ -106,12 +106,12 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ### Confusion Matrix
 
-<img width="703" height="572" alt="image" src="https://github.com/user-attachments/assets/28379e41-c5ca-4df8-bb2d-7e30479387d8" />
+<img width="723" height="587" alt="image" src="https://github.com/user-attachments/assets/d10f8d2d-eb3a-4689-8205-2a65863abd59" />
 
 
 ### Classification Report
 
-<img width="732" height="442" alt="image" src="https://github.com/user-attachments/assets/bb679262-affe-410f-a876-d9860e66f0fb" />
+<img width="642" height="430" alt="image" src="https://github.com/user-attachments/assets/874fa9bc-05dc-4abb-a08a-feca51fb9546" />
 
 
 
